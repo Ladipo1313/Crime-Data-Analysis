@@ -1,4 +1,23 @@
-# Crime-Data-Analysis
+CRIME ANALYSIS REPORT
+DASHBOARD TASKS
+1. Total Crimes:
+- Sum of all reported crimes in the dataset.
+2. Crime Distribution by Year and Yearly Changes:
+- Analysis of crimes categorized by year, including insights into the year-over-year changes.
+3. Crimes by Time Range (e-g-, 3:00 AM to 5:59 AM):
+- Exploration of crime occurrences within specific time intervals, providing a detailed breakdown.
+4. Hitmap Showing Crime Distribution by Weekdays and Months:
+- Visualization using a hitmap to illustrate how crimes are distributed across weekdays and months.
+5. Crimes by Country:
+- Examination of crimes categorized by the country where they occurred.
+6. Total Resolved and Unresolved Crimes:
+- Distinction between resolved and unresolved crimes, offering an overview of the overall resolution rate.
+7. Monthly Crime Trend with Percentage Variance:
+- Analysis of the monthly crime trend, accompanied by the percentage variance to highlight fluctuations.
+8. Identification of the Most Dangerous Time of the Day:
+- Exploration to pinpoint the specific time periods during the day associated with a higher frequency of crimes
+
+
 Crime Analysis Report
 Dashboard Overview
 Key Metrics and Visualizations
@@ -33,6 +52,9 @@ Identification of the Most Dangerous Time of the Day:
 
 Insight: The period between 12:00 AM and 2:59 AM is identified as the most dangerous time of day with the highest frequency of crimes.
 Yearly Breakdown of Crime Data
+
+![](./Crime Analysis.jpg)
+
 2021:
 
 Total Crimes: 405
@@ -43,6 +65,8 @@ Highest Crime Month: October (125 crimes)
 Most Crime-Heavy Days: Saturday, Sunday, Monday
 Highest Crime Country: Austria (177 crimes)
 Crime Rate Fluctuations: Crime rate increased by 52% in October (125 crimes) and decreased by 18% in November (103 crimes).
+
+
 2022:
 
 Total Crimes: 1,150
@@ -53,6 +77,8 @@ Highest Crime Month: October (101 crimes)
 Most Crime-Heavy Days: Saturday, Sunday, Monday
 Highest Crime Country: Austria (397 crimes)
 Crime Rate Fluctuations: Crime rate increased by 25% in October (101 crimes) and decreased by 4% in November (97 crimes).
+
+
 2023:
 
 Total Crimes: 945
