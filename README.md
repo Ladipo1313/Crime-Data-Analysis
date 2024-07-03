@@ -196,20 +196,35 @@ Visualization: A chart to highlight which crimes are most prevalent.
 
 
 Insights from the Analysis
+
+
 Total Crimes: 2,500 reported incidents.
+
 Resolved Crimes: 70.04%, indicating effective law enforcement efforts.
+
 Unresolved Crimes: 29.96%, highlighting areas for improvement.
+
 Yearly Crime Trends: Significant increase in 2022 with 1,150 crimes, 745 more than in 2021.
+
 Peak Crime Times: 12:00 AM to 2:59 AM is the most crime-prone time.
+
 Monthly Trends: October consistently has the highest crime rates.
+
 Weekly Trends: Saturday, Sunday, and Monday have the highest crime occurrences.
+
 Country-Specific Data: Austria has the highest crime rate with 879 incidents.
 
 
 
 Recommendations
+
+
 Enhance Nighttime Patrols: Increase law enforcement presence between 12:00 AM and 2:59 AM, as this is the most dangerous time of day.
+
 Focus on October: Implement targeted crime prevention strategies in October, which has the highest crime rates.
+
 Weekend Strategies: Allocate more resources to Saturday, Sunday, and Monday to address the higher crime rates.
+
 Resolve Unresolved Crimes: Strengthen investigative processes to reduce the 29.96% unresolved crime rate.
+
 Country-Specific Measures: Focus on Austria with specific crime reduction programs given its high crime rate.
