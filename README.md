@@ -53,7 +53,7 @@ Identification of the Most Dangerous Time of the Day:
 Insight: The period between 12:00 AM and 2:59 AM is identified as the most dangerous time of day with the highest frequency of crimes.
 Yearly Breakdown of Crime Data
 
-![](./Crime Analysis.JPG)
+![](./Crime_Analysis.JPG)
 
 2021:
 
